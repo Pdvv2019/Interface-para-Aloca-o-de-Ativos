@@ -1,0 +1,5 @@
+Para rodar as importações: pandas, pillow, yfinance, tkinter, os 
+
+comando no terminal:
+
+"pip install pandas pillow yfinance tkinter"
